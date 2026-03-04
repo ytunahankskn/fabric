@@ -1,8 +1,8 @@
 
-This repo does not belong to me; I am using it for research.
-This repo does not belong to me; I am using it for research.
-This repo does not belong to me; I am using it for research.
-This repo does not belong to me; I am using it for research.
+## This repo does not belong to me; I am using it for research.
+## This repo does not belong to me; I am using it for research.
+## This repo does not belong to me; I am using it for research.
+## This repo does not belong to me; I am using it for research.
 ## 📬 Contact
 
 **Tejas Murkute**
@@ -11,8 +11,7 @@ This repo does not belong to me; I am using it for research.
 - Portfolio: [herrtejas.github.io](https://herrtejas.github.io)
 https://github.com/HerrTejas/isaac-sim-palletizing
 
-This repo does not belong to me; I am using it for research.
-
-https://github.com/HerrTejas/isaac-sim-palletizing
-https://github.com/HerrTejas/isaac-sim-palletizing
-https://github.com/HerrTejas/isaac-sim-palletizing
+## This repo does not belong to me; I am using it for research.
+## (https://github.com/HerrTejas/isaac-sim-palletizing)
+## (https://github.com/HerrTejas/isaac-sim-palletizing)
+## (https://github.com/HerrTejas/isaac-sim-palletizing)
